@@ -3,7 +3,7 @@
 From Kitchens to CLI: My CCNA Lab Portfolio
 
 ### Introduction
-Welcome! I am an aspiring **IT Technical Support Specialist** currently transitioning from a career in the culinary arts. After completing the **Google IT Support Professional Certificate** (Oct/2025), I am now deep-diving into networking fundamentals to earn my **CCNA**.
+Welcome! My name is Renato and I am an aspiring **IT Technical Support Specialist** currently transitioning from a career in the culinary arts. After completing the **Google IT Support Professional Certificate** (Oct/2025), I am now deep-diving into networking fundamentals to earn my **CCNA**.
 
 This repository is my "digital notebook", documenting the labs I build, the networks I break, and the solutions I engineer.
 
