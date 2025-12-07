@@ -28,3 +28,5 @@ For every project, I include:
 
 ---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/renatokitamura/) to follow my journey.*
+
+Huge thanks to Jeremy's It Lab. This foundational project was developed using the practical lab exercises and comprehensive curriculum provided by him. [Discovey his work here](https://www.youtube.com/@JeremysITLab)
