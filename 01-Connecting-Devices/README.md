@@ -4,7 +4,7 @@
 To practice selecting the correct cabling types for various network devices, distinguishing between Straight-through, Crossover, and Fiber Optic connections based on device roles (MDI vs MDI-X).
 
 ### Topology
-![Network Topology](topology.png)
+![Network Topology](topology lab 1.png)
 
 ### Concepts Applied
 * **Copper Straight-Through:** Used for unlike devices (e.g., Switch ↔ PC, Switch ↔ Router).
