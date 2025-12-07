@@ -9,12 +9,12 @@ To practice selecting the correct cabling types for various network devices, dis
 ### Concepts Applied
 * **Copper Straight-Through:** Used for unlike devices (e.g., Switch ↔ PC, Switch ↔ Router).
 * **Copper Crossover:** Used for like devices (e.g., Switch ↔ Switch, Router ↔ Router).
-* **Fiber Optic:** Used for long-distance connections (R1 ↔ R3 were 3km apart, requiring Single-Mode fiber).
+* **Fiber Optic:** Used for long-distance connections (R1 ↔ R3 were 3km apart, requiring Single-Mode fiber and R3 ↔ R4 were 250m apart which is too long for UTP cable, requiring fiber again but this time the Multimode will be enough since it can go up to 550m).
 
 ### My Learning Notes
-In this lab, I learned that devices transmit and receive on specific pins (1&2 or 3&6).
-* **PC/Routers:** Transmit on 1&2.
-* **Switches:** Transmit on 3&6.
+In this lab, I learned that devices transmit and receive on specific pins (1 & 2 or 3 & 6).
+* **PC/Routers:** Transmit on 1 & 2.
+* **Switches:** Transmit on 3 & 6.
 If I connect two Switches together, I must use a **Crossover cable** so the Transmit pins on one end connect to the Receive pins on the other.
 
 ### The "Chef" Perspective
